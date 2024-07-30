@@ -1,8 +1,22 @@
-# React + Vite
+Тестовое задание – React Developer
+Цель задания:
+Разработать приложение для демонстрации данных, полученных из API сервиса.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+API: https://restcountries.com/
 
-Currently, two official plugins are available:
+Задачи:
+В приложении должен быть отображен список стран и по клику на страну должна открываться страница с подробностями о стране.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Пример информации о стране:
+https://restcountries.com/v3.1/name/deutschland
+
+Также минимально требуется стилизовать с помощью Bootstrap или любой другой библиотеки.
+
+При отображении страны данные для вывода для примера, но можно не ограничиваться:
+– Name
+– Capital
+– Flag
+
+Добавить обработку случая, когда API не возвращает данные или возвращает ошибку.
+
+Спасибо за просмотр)
