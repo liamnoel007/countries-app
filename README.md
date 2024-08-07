@@ -20,3 +20,5 @@ https://restcountries.com/v3.1/name/deutschland
 Добавить обработку случая, когда API не возвращает данные или возвращает ошибку.
 
 Спасибо за просмотр)
+
+ССЫЛКА ДЛЯ ПРОСМОТРА: https://countries-app-five-alpha.vercel.app/
